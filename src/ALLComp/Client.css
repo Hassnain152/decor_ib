@@ -1,0 +1,35 @@
+.our-clients {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .our-clients h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .our-clients p {
+    font-size: 1rem;
+    margin-bottom: 30px;
+    color: #666;
+  }
+  
+  .clients-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 20px;
+    justify-items: center;
+  }
+  
+  .client img {
+    width: 100%;
+    max-width: 120px;
+    transition: transform 0.3s ease;
+  }
+  
+  .client img:hover {
+    transform: scale(1.1);
+  }
+  
