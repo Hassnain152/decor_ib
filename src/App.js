@@ -21,7 +21,7 @@ const App = () => {
         style={{
           width: "100%",
           maxWidth: "500px",
-          background: "#fff",
+          background: "#f1eaea",
           borderRadius: "16px",
           padding: "30px",
           textAlign: "center",
