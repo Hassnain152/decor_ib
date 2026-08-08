@@ -12,7 +12,7 @@ const App = () => {
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
-        background: "#f5f7fb",
+        background: "#dbdbdb",
         padding: "20px",
         fontFamily: "Arial, sans-serif",
       }}
