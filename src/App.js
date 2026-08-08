@@ -77,7 +77,7 @@ const App = () => {
           style={{
             marginTop: "15px",
             fontSize: "13px",
-            color: "#999",
+            color: "#b8b7b7",
           }}
         >
           Version update is required for the best experience.
