@@ -148,7 +148,7 @@ function Contactus() {
                     </h5>
 
                     <p style={styles.infoText}>
-                      +92 317 6279223
+                      +966590752215
                     </p>
                   </div>
                 </a>
@@ -309,23 +309,19 @@ function Contactus() {
 
       {/* ================= FLOATING WHATSAPP ================= */}
 
-      <a
-        href="https://wa.me/923176279223"
-        target="_blank"
-        rel="noopener noreferrer"
-        style={styles.whatsapp}
-        aria-label="Contact us on WhatsApp"
-      >
-        <img
-          src={whtsapp}
-          alt="WhatsApp"
-          style={styles.whatsappImage}
-        />
+     
+<a
+  href="https://wa.me/966590752215"
+  target="_blank"
+  rel="noopener noreferrer"
+  style={styles.whatsappButton}
+>
+  <span style={styles.whatsappText}>
+    Chat with us
+  </span>
+</a>
 
-        <span style={styles.whatsappText}>
-          Chat with us
-        </span>
-      </a>
+
 
     </section>
   );
