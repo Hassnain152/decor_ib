@@ -70,7 +70,7 @@ function Contactus() {
               <p style={styles.subtitle}>
                 Let's talk about everything!
                 <br />
-                We would love to hear from you and discuss your next project.
+                We would love to hear from you and discuss your next project
               </p>
             </div>
           </div>
