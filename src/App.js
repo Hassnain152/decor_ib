@@ -11,7 +11,7 @@ import Aboutus from "./ALLComp/Aboutus";
 function App() {
   return (
     <>
-    <h1>jhjh</h1>
+   
     <Navbar/>
     <Home/>
     <Clients/>
